@@ -8,5 +8,5 @@ mv bcl $GOPATH/bin
 
 | command            | function     |
 | ------------------ | ------------ |
-| bcl -n <post name> | add new blog |
+| bcl -n \<post name\> | add new blog |
 
